@@ -8,3 +8,6 @@ A design for a controller with the following specifications was started:
 3) Controller will work with both 7.5V and 12V systems by employing an appropiate DC-DC converter for powering the Arduino
 4) Controller will incorporate a safety system to reduce chances of unintented acceleration due to hardware or software fault
 
+March 25th, 2019
+A sound controller to enable music to be played by pressing buttons on the steering wheel was created. The code for the device is included.
+
